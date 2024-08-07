@@ -54,7 +54,7 @@ const Header = ({ chains }) => {
   return (
     <header>
       <div className="nav">
-        <img src="/assets/images/logo-white.svg" alt="Rabby" className="logo" />
+        <img src="/assets/images/logo-white.webp" width={200} height={80} alt="Lux" className="logo" />
         <a
           href="javascript:;"
           className={clsx("menu-btn", {
@@ -142,7 +142,7 @@ const Header = ({ chains }) => {
           <div className="container">
             <div className="features">
               <a
-                href="https://github.com/RabbyHub/Rabby/blob/master/docs/SlowMist%20Audit%20Report%20-%20Rabby%20Wallet-2023.07.20.pdf"
+                href="https://github.com/luxfi/xwallet/blob/master/docs/SlowMist%20Audit%20Report%20-%20Lux%20Wallet-2023.07.20.pdf"
                 target="_blank"
                 className="feature-item"
                 rel="noreferrer"
@@ -155,7 +155,7 @@ const Header = ({ chains }) => {
                 Audited by SlowMist
               </a>
               <a
-                href="https://github.com/RabbyHub/Rabby"
+                href="https://github.com/luxfi/xwallet"
                 target="_blank"
                 className="feature-item"
                 rel="noreferrer"
@@ -172,7 +172,7 @@ const Header = ({ chains }) => {
             <Download />
           </div>
           <img
-            src="/assets/images/hero-15.png"
+            src="/assets/images/hero-16.png"
             alt="Dashboard screenshot"
             className="hero-image"
           />

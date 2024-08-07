@@ -10,7 +10,8 @@ html {
 }
 
 body {
-  background-image: url(https://rabby.io/assets/images/bg-1.png);
+  background-image: url(/public/assets/images/bg-0.png);
+  background-color: #050505;
   /* background-size: 100% 767px; */
   background-repeat: no-repeat;
   background-size: 3840px 850px;
@@ -334,7 +335,7 @@ header {
 }
 
 .title {
-  color: #2d3033;
+  color: #fff;
   text-align: center;
   margin-bottom: 80px;
 }
@@ -358,22 +359,22 @@ header {
   align-self: center;
 }
 .intro-content .intro-title {
-  color: #fff;
+  color: #000;
   font-weight: 900;
   text-transform: uppercase;
   font-size: 18px;
   display: inline-block;
-  padding: 10px 16px;
-  background: linear-gradient(296.44deg, #8bb2ff 10.7%, #7a7cff 86.81%);
+  padding: 13px 25px;
+  background-color: #fff;
   box-shadow: inset 0px -20px 20px rgba(0, 0, 0, 0.02);
-  border-radius: 6px;
+  border-radius: 30px;
 }
 .intro-content h3 {
-  color: #2d3033;
+  color: #e7e7e7;
   margin-bottom: 12px;
 }
 .intro-content p {
-  color: #525966;
+  color: #acacac;
   margin-bottom: 24px;
   margin-top: 0;
   font-size: 16px;

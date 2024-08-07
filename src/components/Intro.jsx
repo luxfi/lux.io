@@ -6,7 +6,7 @@ import React from 'react';
 const Intro = () => {
   return (
     <div className="intro">
-      <h2 className="title">How is Rabby different from MetaMask</h2>
+      <h2 className="title">How is Lux different from MetaMask</h2>
       <div>
         <div className="intro-content">
           <img
