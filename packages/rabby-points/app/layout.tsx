@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-page-custom-font */
+/* eslint-disable react/jsx-no-comment-textnodes */
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Head from "next/head";
@@ -23,8 +25,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
+    // eslint-disable-next-line react/jsx-no-comment-textnodes
     <html lang="en">
+      // eslint-disable-next-line react/jsx-no-comment-textnodes, react/jsx-no-comment-textnodes
       <Head>
+        // eslint-disable-next-line @next/next/no-page-custom-font
         <link
           href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Roboto:wght@300;400;500;700;900&display=swap"
           rel="stylesheet"

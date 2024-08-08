@@ -82,7 +82,7 @@ const Header = ({ chains }) => {
               target="_blank"
               rel="noreferrer"
             >
-              RabbyKit
+              LuxKit
             </a>
           </li>
           <li>
