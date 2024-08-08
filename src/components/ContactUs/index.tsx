@@ -27,10 +27,10 @@ const ContactUs = () => {
           <div className="email">
             <div>
               Customer Support:{" "}
-              <a href="mailto:support@rabby.io">support@rabby.io</a>
+              <a href="mailto:support@rabby.io">support@lux.io</a>
             </div>
             <div>
-              Business: <a href="mailto:bd@rabby.io">bd@rabby.io</a>
+              Business: <a href="mailto:bd@rabby.io">bd@lux.io</a>
             </div>
           </div>
         </div>

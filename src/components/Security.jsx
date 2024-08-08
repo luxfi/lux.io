@@ -23,7 +23,7 @@ const Security = () => {
             rel="noreferrer"
             className="security-link"
           >
-            Click to see more security policies from Rabby
+            Click to see more security policies from Lux
             <img
               src="/assets/images/arrow-right.svg"
               className="icon-arrow-right"
@@ -33,7 +33,7 @@ const Security = () => {
         </div>
         <div className="security-audit">
           <a
-            href="https://github.com/RabbyHub/Rabby/blob/master/docs/SlowMist%20Audit%20Report%20-%20Rabby%20Wallet-2023.07.20.pdf"
+            href="https://github.com/luxfi/xwallet/blob/master/docs/SlowMist%20Audit%20Report%20-%20Lux%20Wallet-2023.07.20.pdf"
             target="_blank"
             rel="noreferrer"
             className="security-audit-card"
@@ -41,7 +41,7 @@ const Security = () => {
             <img src="/assets/images/audit-3.png" alt="audit3" />
           </a>
           <a
-            href="https://github.com/RabbyHub/Rabby/blob/master/docs/SlowMist%20Audit%20Report%20-%20Rabby%20browser%20extension%20wallet-2022.03.18.pdf"
+            href="https://github.com/luxfi/xwallet/blob/master/docs/SlowMist%20Audit%20Report%20-%20Lux%20browser%20extension%20wallet-2022.03.18.pdf"
             target="_blank"
             rel="noreferrer"
             className="security-audit-card"
@@ -49,7 +49,7 @@ const Security = () => {
             <img src="/assets/images/audit-2.jpg" alt="audit2" />
           </a>
           <a
-            href="https://github.com/RabbyHub/Rabby/blob/master/docs/Rabby%20chrome%20extension%20Penetration%20Testing%20Report.pdf"
+            href="https://github.com/luxfi/xwallet/blob/master/docs/Lux%20chrome%20extension%20Penetration%20Testing%20Report.pdf"
             target="_blank"
             rel="noreferrer"
             className="security-audit-card"

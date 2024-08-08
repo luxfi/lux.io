@@ -6,13 +6,13 @@ const Footer = () => {
       <div className="main">
         <div className="left">
           <div className="rabby-logo">
-            <img src="/assets/images/logo-white.svg" alt="rabby" />
+            <img src="/assets/images/logo-white.webp" alt="lux" />
           </div>
         </div>
         <div className="right">
           <div className="footer-links">
             <a
-              href="https://github.com/RabbyHub/logo"
+              href="https://github.com/luxfi/logo"
               target="_blank"
               rel="noreferrer"
             >

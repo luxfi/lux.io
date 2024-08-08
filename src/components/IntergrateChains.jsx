@@ -1,7 +1,7 @@
 const IntergrateChains = ({ chains }) => {
   return (
     <div className="chains">
-      <h2 className="title">Rabby has integrated {chains?.length} chains
+      <h2 className="title">Lux has integrated {chains?.length} chains
       <a className='goto-dashboard' href='/chain-dashboard' target='_blank' rel="noreferrer">View Chain Dashboard
       <img src='/assets/chain-dashboard/arrow-right.svg' alt=''/>
       </a>

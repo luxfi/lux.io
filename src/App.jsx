@@ -39,7 +39,7 @@ function App() {
             alt="download bg"
           />
           <h3 className="white">
-            Get Rabby Wallet and start your Web3 journey
+            Get Lux Wallet and start your Web3 journey
           </h3>
           <p className="white">
             Add your address to contacts and experience all features without

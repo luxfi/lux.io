@@ -1,6 +1,6 @@
-# Rabby Terms of Service and Privacy Policy 
+# Lux Terms of Service and Privacy Policy 
 ## Last updated: July 8, 2024
-DEBANK GLOBAL PTE. LTD. ("DEBANK" or "Rabby" or "we") respects and protects the privacy of Users (“you” or “users”). We will collect and use the information generated from your use of DeBank or Rabby, in accordance with the Terms of Use.
+DEBANK GLOBAL PTE. LTD. ("DEBANK" or "Lux" or "we") respects and protects the privacy of Users (“you” or “users”). We will collect and use the information generated from your use of DeBank or Lux, in accordance with the Terms of Use.
 
 ## What information do we collect
 We get information about you in a range of ways.
@@ -42,9 +42,9 @@ We reserve the right to update this Policy online from time to time, and the new
 
 For material changes to this policy, we will update the "last updated date" at the top of this page.
 
-In particular, if you do not accept the revised policies, please immediately stop your use of DeBank or Rabby.
+In particular, if you do not accept the revised policies, please immediately stop your use of DeBank or Lux.
 
 Your continued use of our services confirms your acceptance of our terms of use, as amended. If you do not agree to our terms of use, as amended, you must stop using our services. 
 
 ## Contact Us
-If you have any questions about our terms of use, please contact us at [support@rabby.io](mailto:support@rabby.io).
+If you have any questions about our terms of use, please contact us at [support@lux.io](mailto:support@lux.io).
