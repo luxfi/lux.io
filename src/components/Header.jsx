@@ -108,7 +108,7 @@ const Header = ({ chains }) => {
               Telegram
             </a>
           </li> */}
-          <li>
+          {/* <li>
             <a
               href="https://discord.gg/seFBCWmUre"
               target="_blank"
@@ -116,10 +116,10 @@ const Header = ({ chains }) => {
             >
               Discord
             </a>
-          </li>
+          </li> */}
           <li>
             <a
-              href="https://github.com/RabbyHub/Rabby"
+              href="https://github.com/luxfi/luxwallet.xyz"
               target="_blank"
               rel="noreferrer"
             >
@@ -127,7 +127,7 @@ const Header = ({ chains }) => {
             </a>
           </li>
           <li>
-            <a href="mailto:support@rabby.io" target="_blank" rel="noreferrer">
+            <a href="mailto:hi@lux.finance" target="_blank" rel="noreferrer">
               Email
             </a>
           </li>

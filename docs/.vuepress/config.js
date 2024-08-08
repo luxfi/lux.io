@@ -11,6 +11,6 @@ module.exports = {
     logo: '/debank-512.png'
   },
   head: [
-    ['link', { rel: 'icon', href: `https://rabby.io/assets/images/favicon.png` }]
+    ['link', { rel: 'icon', href: `/public/assets/favicon.png` }]
   ],
 }
