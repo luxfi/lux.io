@@ -1,19 +1,23 @@
 const followUsList = [
   {
     logo: "/assets/contact/x.svg",
-    link: "https://twitter.com/Rabby_io",
+    link: "https://x.com/luxdefi",
   },
   {
-    logo: "/assets/contact/discord.svg",
-    link: "https://discord.gg/seFBCWmUre",
+    logo: "/assets/contact/facebook.svg",
+    link: "https://facebook.com/luxdefi",
+  },
+  // {
+  //   logo: "/assets/contact/github.svg",
+  //   link: "https://github.com/luxfi/xwallet",
+  // },
+  {
+    logo: "/assets/contact/instagram.svg",
+    link: "https://instagram.com/luxdefi",
   },
   {
-    logo: "/assets/contact/github.svg",
-    link: "https://github.com/RabbyHub/Rabby",
-  },
-  {
-    logo: "/assets/contact/medium.svg",
-    link: "https://medium.com/@rabby_io",
+    logo: "/assets/contact/linkedin.svg",
+    link: "https://linkedin.com/company/luxdefi",
   },
 ];
 
@@ -27,10 +31,10 @@ const ContactUs = () => {
           <div className="email">
             <div>
               Customer Support:{" "}
-              <a href="mailto:support@rabby.io">support@lux.io</a>
+              <a href="mailto:z@lux.network">z@lux.network</a>
             </div>
             <div>
-              Business: <a href="mailto:bd@rabby.io">bd@lux.io</a>
+              Business: <a href="mailto:hi@lux.finance">hi@lux.finance</a>
             </div>
           </div>
         </div>

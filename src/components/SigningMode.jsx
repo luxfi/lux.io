@@ -51,7 +51,7 @@ const SigningModes = () => {
   return (
     <div className="signing-modes">
       <h2 className="title">Support multiple signing modes</h2>
-      <p>You can sign a transaction in any of the following ways</p>
+      <p style={{color: '#a3a3a3'}}>You can sign a transaction in any of the following ways</p>
       <div className="signing-modes-wrapper">
         <div className="signing-modes-card">
           <h3>Hardware Wallets</h3>
