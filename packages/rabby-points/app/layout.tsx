@@ -8,8 +8,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://rabby.io"),
-  title: "Rabby Points - Rabby Wallet",
+  metadataBase: new URL("https://luxwallet.xyz"),
+  title: "Lux Points - Lux Wallet",
   description: "The game-changing wallet for Ethereum and all EVM chains",
   twitter: {
     card: "summary_large_image",

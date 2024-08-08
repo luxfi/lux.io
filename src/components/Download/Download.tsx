@@ -61,7 +61,7 @@ export const Download: React.FC = () => {
                 />
               </div>
             </div>
-            <JoinDiscord href="https://discord.gg/seFBCWmUre" />
+            <JoinDiscord href="#" />
           </>
         )}
         {activeTab === Platform.Mobile && (

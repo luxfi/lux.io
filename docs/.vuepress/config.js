@@ -2,8 +2,8 @@ const path = require('path');
 
 module.exports = {
   base: '/docs/',
-  title: 'Debank & Rabby',
-  description: 'Document for Rabby',
+  title: 'Debank & Lux',
+  description: 'Document for Lux',
   nextLinks: false,
   prevLinks: false,
   dest: path.resolve(__dirname, '../../dist/docs'),
