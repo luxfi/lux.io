@@ -11,6 +11,6 @@ module.exports = {
     logo: '/debank-512.png'
   },
   head: [
-    ['link', { rel: 'icon', href: `/public/assets/favicon.png` }]
+    ['link', { rel: 'icon', href: `'https://cdn.lux.network/img/wallet/main-icon.svg` }]
   ],
 }
