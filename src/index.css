@@ -735,7 +735,7 @@ footer .right .footer-links a:nth-last-child(1)::after {
 .signing-modes .signing-modes-wrapper .signing-modes-card {
   width: 300px;
   height: 348px;
-  background: #ffffff;
+  background: #ffffff00;
   border: 0.5px solid #eaeaec;
   border-radius: 8px;
   margin-right: 33px;
@@ -750,7 +750,7 @@ footer .right .footer-links a:nth-last-child(1)::after {
   font-weight: 500;
   font-size: 18px;
   line-height: 22px;
-  color: #2d3033;
+  color: #ffffff;
   margin: 0 0 30px 0;
   padding-left: 24px;
 }
@@ -780,7 +780,7 @@ footer .right .footer-links a:nth-last-child(1)::after {
   text-align: center;
   margin: 0;
 
-  color: #525966;
+  color: #ffffff;
 
   opacity: 0.8;
 }
@@ -798,14 +798,14 @@ footer .right .footer-links a:nth-last-child(1)::after {
 .contact-us .card {
   border-radius: 8px;
   border: 0.5px solid var(--title, #eaeaec);
-  background: var(--white-title, #fff);
+  background: #000;
   display: flex;
   flex-wrap: wrap;
   padding: 30px 32px;
 }
 
 .contact-us .card .sub-title {
-  color: var(--r-neutral-title1, #192945);
+  color: #fff;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
@@ -820,14 +820,14 @@ footer .right .footer-links a:nth-last-child(1)::after {
 .contact-us .card .email {
   display: flex;
   flex-wrap: wrap;
-  color: var(--r-neutral-body, #3e495e);
+  color: #fff;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   gap: 32px;
   a {
-    color: var(--r-blue-default, #7084ff);
+    color: #bbbbbb;
   }
 }
 
