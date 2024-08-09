@@ -78,7 +78,7 @@ const Header = ({ chains }) => {
           </li> */}
           <li>
             <a
-              href="https://rabbykit.rabby.io/"
+              href="https://luxkit.vercel.app/"
               target="_blank"
               rel="noreferrer"
             >
@@ -87,36 +87,40 @@ const Header = ({ chains }) => {
           </li>
           <li>
             <a
-              href="https://twitter.com/Rabby_io"
+              href="https://x.com/luxdefi"
               target="_blank"
               rel="noreferrer"
             >
-              Twitter (X)
+              Twitter
             </a>
           </li>
           <li>
             <a
-              href="https://medium.com/@rabby_io"
+              href="https://facebook.com/luxdefi"
               target="_blank"
               rel="noreferrer"
             >
-              Medium
+              Facebook
             </a>
           </li>
-          {/* <li>
-            <a href="https://t.me/rabby_io" target="_blank" rel="noreferrer">
-              Telegram
+          <li>
+            <a 
+              href="https://instagram.com/luxdefi" 
+              target="_blank" 
+              rel="noreferrer"
+            >
+              Instagram
             </a>
-          </li> */}
-          {/* <li>
+          </li>
+          <li>
             <a
-              href="https://discord.gg/seFBCWmUre"
+              href="https://linkedin.com/company/luxdefi"
               target="_blank"
               rel="noreferrer"
             >
-              Discord
+              Linkedin
             </a>
-          </li> */}
+          </li>
           <li>
             <a
               href="https://github.com/luxfi/luxwallet.xyz"
