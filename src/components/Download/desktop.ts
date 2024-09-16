@@ -1,8 +1,8 @@
 export const DESKTOP_DOWNLOAD_URL = {
   macosIntel:
-    'https://download.rabby.io/wallet-desktop/darwin-x64/rabby-wallet-desktop-installer-x64-latest.dmg',
+    'https://dl.luxwallet.xyz/wallet-desktop/darwin-x64/lux-wallet-desktop-installer-x64-latest.dmg',
   macosArm:
-    'https://download.rabby.io/wallet-desktop/darwin-arm64/rabby-wallet-desktop-installer-arm64-latest.dmg',
+    'https://dl.luxwallet.xyz/wallet-desktop/darwin-arm64/lux-wallet-desktop-installer-arm64-latest.dmg',
   windows:
-    'https://download.rabby.io/wallet-desktop/win32-x64/rabby-wallet-desktop-installer-x64-latest.exe'
+    'https://dl.luxwallet.xyz/wallet-desktop/win32-x64/lux-wallet-desktop-installer-x64-latest.exe'
 };
