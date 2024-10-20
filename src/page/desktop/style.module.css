@@ -1,11 +1,12 @@
 .container {
-  background: #f5f6fa;
+  background: #000000;
   min-height: 100vh;
   padding: 0 20px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: "Roboto", sans-serif;
+  color: #ffffff;
 }
 
 .panel {

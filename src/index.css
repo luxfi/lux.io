@@ -4,18 +4,13 @@
   box-sizing: border-box;
 }
 
-html {
-  background-color: #fafbfc;
-  font-family: "Lato", sans-serif;
+html, body {
+  background-color: #000000;
+  color: #ffffff;
 }
 
 body {
-  background-image: url(/public/assets/images/bg-0.png);
-  background-color: #050505;
-  /* background-size: 100% 767px; */
-  background-repeat: no-repeat;
-  background-size: 3840px 850px;
-  background-position: top right 50%;
+  background-image: none;
   max-width: 100vw;
   overflow-x: hidden;
 }
@@ -1316,3 +1311,4 @@ footer .right .footer-links a:nth-last-child(1)::after {
   animation-delay: 250ms;
   animation-duration: 0.4s;
 }
+

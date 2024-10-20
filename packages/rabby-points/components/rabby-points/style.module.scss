@@ -1,15 +1,13 @@
 .container {
   --content-w: 580px;
-  background: linear-gradient(102deg, #326cff 2.72%, #ae2bff 84.56%);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background: #000000;
   min-height: 100vh;
   --box-pl: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding-top: 40px;
+  color: #ffffff;
 }
 
 .startIcon {
@@ -509,3 +507,4 @@
     // }
   }
 }
+
