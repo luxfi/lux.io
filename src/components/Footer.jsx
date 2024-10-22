@@ -5,8 +5,8 @@ const Footer = () => {
     <footer>
       <div className="main">
         <div className="left">
-          <div className="rabby-logo">
-            <img src="/assets/images/logo-white.webp" alt="lux" />
+          <div className="luxlogo.png">
+            <img src="/assets/images/luxwalletlogo.png" alt="lux" />
           </div>
         </div>
         <div className="right">

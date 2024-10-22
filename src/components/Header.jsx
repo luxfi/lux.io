@@ -54,7 +54,7 @@ const Header = ({ chains }) => {
   return (
     <header>
       <div className="nav">
-        <img src="/assets/images/logo-white.webp" width={200} height={80} alt="Lux" className="logo" />
+        <img src="/assets/images/luxwalletlogo.png" width="32" height="32" alt="Lux" className="logo" />
         <a
           href="javascript:;"
           className={clsx("menu-btn", {
@@ -104,9 +104,9 @@ const Header = ({ chains }) => {
             </a>
           </li>
           <li>
-            <a 
-              href="https://instagram.com/luxdefi" 
-              target="_blank" 
+            <a
+              href="https://instagram.com/luxdefi"
+              target="_blank"
               rel="noreferrer"
             >
               Instagram

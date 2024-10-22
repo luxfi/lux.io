@@ -45,13 +45,24 @@ function App() {
             Add your address to contacts and experience all features without
             importing a private key.
           </p>
+
+        <div className="intro-content">
+          <div className="right text">
+            <div className="intro-title">Experience</div>
+            <h3>You see exactly what you sign</h3>
+            <p>The first wallet showing your estimated balance change</p>
+          </div>
+        </div>
+        <div class="intro-title">
           <a
             href="javascript:;"
             className="round-button orange"
             onClick={handleClickDownload}
+            style={{"color":"white"}}
           >
             Download
           </a>
+          </div>
         </div>
       </div>
       <div className="main">
